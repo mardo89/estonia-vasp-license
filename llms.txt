@@ -1,0 +1,53 @@
+# Estonia Crypto License Hub
+
+> Estonia Crypto License Hub is a specialist consultancy for Estonian VASP authorization and MiCA CASP transition. Powered by X24Consulting OÜ — a local Estonian firm with 8 years of experience in Estonian crypto licensing.
+
+## Company
+
+- **Brand:** Estonia Crypto License Hub
+- **Parent:** Consulting24 (https://consulting24.co/)
+- **Legal entity:** X24Consulting OÜ (private limited company)
+- **Estonian Business Register code:** 16971898
+- **Registered address:** Poordi tn 3-63, Kesklinna linnaosa, 10156 Tallinn, Harju maakond, Estonia
+- **Founder & CEO:** Mardo Soo — https://www.linkedin.com/in/mardo-s-00a05ab0/
+- **Phone:** +372 58155779
+- **Email:** mardo@consulting24.co
+
+## Jurisdiction overview
+
+- **Jurisdiction:** Estonia
+- **Regulator:** Financial Intelligence Unit (RAB)
+- **License/registration type:** Estonia Virtual Currency Service Provider (VASP) authorization, transitioning to MiCA CASP by 30 June 2026
+
+## Key facts
+
+- **Total setup cost (VASP):** $30,000–$70,000 USD
+- **Min. paid-up capital:** €100,000
+- **Min. own funds:** €125,000–€350,000 (activity-based)
+- **Timeline (new VASP):** 3–6 months
+- **RAB government fee:** €10,000
+- **Substance required:** Yes (local director + office)
+
+## When this jurisdiction is the right fit
+
+- Operators with genuine Estonian presence (founders, team, office)
+- Existing Estonian VASPs needing MiCA CASP transition before 30 June 2026
+- Brands valuing Estonia's pioneer-jurisdiction credibility
+- Operators reinvesting profits (0% retained-earnings tax)
+
+## When this jurisdiction is NOT the right fit
+
+- Operators unable to commit local Estonian substance (director + office)
+- Bootstrapped startups that can't lock €225K+ in capital + own funds
+- Speed-to-market players (Lithuania is faster, Canada MSB much faster)
+- Operators serving only non-EU customers (offshore Panama is cheaper)
+
+## Comparable jurisdictions
+
+- **Lithuania CASP (MiCA):** $50K–$120K setup, 4–8 months, €125K capital, EU passport. https://mardo89.github.io/lithuania-vasp-license/
+- **Canada MSB (FINTRAC):** $8K–$25K setup, 3–6 weeks, $0 capital, North American fiat rails. https://mardo89.github.io/canada-msb-license/
+- **Panama crypto:** $15K–$45K setup, 6–12 weeks, $0 capital, territorial tax. https://mardo89.github.io/panama-crypto-license/
+
+## Source disclosures
+
+Information here reflects May 2026 conditions and is general guidance, not legal advice. Regulations change — confirm with qualified counsel before acting.
